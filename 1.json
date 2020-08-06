@@ -1,0 +1,19 @@
+{
+"azul":[
+{"Id":"1","Color":"Azul","Descripcion":"Dibuja un personaje de la leyenda de la Dama Tapada","Respuesta":"Dama Tapada","Pista":"Mujer de vestido negro"},
+{"Id":"2","Color":"Rojo","Descripcion":"Ordena la siguiente palabra LLOPACINE","Respuesta":"PANECILLO","Pista":"Elevacion natural de 3.000 metros sobre el nivel del mar"},
+{"Id":"3","Color":"Amarrillo","Descripcion":"¿Quien escribio el himno a Quito?","Respuesta":"Fray Bernardino Echeverria","Pista":"El nombre es Fray"},
+{"Id":"4","Color":"Verde","Descripcion":"Canta la cancion del Chullita Quiteno","Respuesta":"No","Pista":"Yo soy el Chullita Quiteno, la vida me paso ?"},
+{"Id":"1","Color":"Azul","Descripcion":"Dibuja al alcalde de Quito","Respuesta":"Jorge Yunda","Pista":"No hay pista"},
+{"Id":"2","Color":"Rojo","Descripcion":"Ordena la siguiente palabra TEUIQON","Respuesta":"QUITENO","Pista":"Persona popular en Quito"},
+{"Id":"3","Color":"Amarrillo","Descripcion":"¿Como se llama el Alcalde de Quito?","Respuesta":"Jorge Yunda","Pista":"Su nombre empieza con J.."},
+{"Id":"4","Color":"Verde","Descripcion":"Canta una cancion donde este la palabra \"Loma Grande\"","Respuesta":"Cancion Chullita Quiteno","Pista":"La Loma Grande y La Guaragua Son todos barrios tan queridos De mi gran ciudad"},
+{"Id":"1","Color":"Azul","Descripcion":"Dibuja en orden los colores de la bandera de Quito","Respuesta":"azul, rojo, azul","Pista":"Son 2 colores __ y 1 color _____"},
+{"Id":"3","Color":"Amarrillo","Descripcion":"En el escudo hay un castillo cuantas torres tiene","Respuesta":"3 torres","Pista":"Son mayores a 1"},
+{"Id":"3","Color":"Amarrillo","Descripcion":"La bandera de Quito se confirmo cuando estaba el alcalde__","Respuesta":"Sixto Duran Ballen","Pista":"Su nombre es Sixto"},
+{"Id":"3","Color":"Amarrillo","Descripcion":"Quito se situa sobre la Hoya de _","Respuesta":"Guayllabamba","Pista":"La hoya empieza por G y termina en a"},
+{"Id":"1","Color":"Azul","Descripcion":"Dibuja el castillo del escudo de Quito","Respuesta":"Castillo con 3 torres","Pista":"Es un castillo con algunas torres"},
+{"Id":"2","Color":"Rojo","Descripcion":"Ordena la palabra ONIAPRITOM","Respuesta":"PATRIMONIO","Pista":"Tu eres el dueno De este precioso ___ Nacional"},
+{"Id":"3","Color":"Amarrillo","Descripcion":"Como se llama el alcalde que le decian Cabeza de Canguil","Respuesta":"Mauricio Rodas","Pista":"Su nombre empieza con Mi."}
+]
+}
